@@ -76,3 +76,4 @@ https://
 2. The above method not only increases the model accuracy and precision (AUC - ROC)
    but also helps in getting the predicatable data for longer set of future intervals
 3. Adding a chatbot for user's queries.
+![image](https://user-images.githubusercontent.com/116669078/202876982-21b2ff59-063f-494e-b5ce-0b1cd9fb94fb.png)
