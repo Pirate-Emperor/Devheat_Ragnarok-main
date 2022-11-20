@@ -69,6 +69,10 @@ https://
     and excluding the previous record helps in making the model both fast and efficient.
 
 ```
+![image](https://user-images.githubusercontent.com/116669078/202877298-898b3b70-4db3-4323-82c9-f07257cfb356.png)
+
+![image](https://user-images.githubusercontent.com/116669078/202877331-8a287f70-f494-44ab-9291-5f4e7375baf3.png)
+
 ### 🏆Future Scope
 1. Upon considering various other features of the trained set,
    Like production efficiency, investments by the firm and many more
@@ -76,4 +80,3 @@ https://
 2. The above method not only increases the model accuracy and precision (AUC - ROC)
    but also helps in getting the predicatable data for longer set of future intervals
 3. Adding a chatbot for user's queries.
-![image](https://user-images.githubusercontent.com/116669078/202876982-21b2ff59-063f-494e-b5ce-0b1cd9fb94fb.png)
