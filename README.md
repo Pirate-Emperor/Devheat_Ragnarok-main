@@ -8,11 +8,13 @@
 
 
 ### 🏆Repo Link
-https://github.com/Pirate-Emperor/Devheat_Ragnarok-main
-
-## YouTube link
+Frontend:-
+https://github.com/Pirate-Emperor/Devheat_Ragnarok-main 
+Backend ML:-
+https://github.com/Pirate-Emperor/Stock_Predictor_ML
+## Drive link
 ```
-https://
+https://drive.google.com/file/d/1l_th3UTX38AuRr1YfS4NKkkl8z_VXtdB/view?usp=share_link
 ```
 
 ### Photos
