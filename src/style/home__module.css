@@ -1,0 +1,68 @@
+.head {
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(162, 168, 168);
+    width: 90%;
+    margin: auto;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.list_box {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    /* background-color: #2962ffe8;
+     */
+    background-color: #E2E5ED;
+    border-radius: 15px;
+
+}
+
+.data_box {
+    display: flex;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    justify-content: space-between;
+}
+
+.data_box:hover {
+    background-color: #2962ffe8;
+    color: black;
+    cursor: pointer;
+}
+
+.img_coin {
+    width: 40px;
+    object-fit: contain;
+}
+
+.short_name {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.left_side {
+    display: flex;
+
+}
+
+.right_side {
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+
+}
+
+.long_name {
+    color: rgb(0, 0, 0);
+}
+
+.change {
+    margin-left: 10px;
+    margin-right: 10px;
+    font-weight: 300;
+}

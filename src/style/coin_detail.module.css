@@ -1,0 +1,299 @@
+.upper_box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #E2E5ED;
+  padding: 20px;
+  border: 1px solid #A1A1A5;
+  border-radius: 10px;
+  margin: 20px;
+}
+
+.button {
+  padding: 10px 20px 10px 20px;
+  background-color: rgb(180, 40, 40);
+  color: white;
+  cursor: pointer;
+  border-radius: 10px;
+
+}
+
+.error {
+  font-size: 15px;
+  color: red;
+}
+
+.modal {
+  font-size: 20px;
+  background-color: #2962FF;
+  border-radius: 15px;
+  border: 2px solid #A1A1A5;
+}
+
+.header {
+  color: white;
+  font-size: 30px;
+}
+
+.modal>.header {
+  width: 100%;
+  border-bottom: 1px solid gray;
+  font-size: 18px;
+  text-align: center;
+  padding: 5px;
+}
+
+.modal>.content {
+  width: 100%;
+  padding: 50px 30px;
+}
+
+.modal>.actions {
+  width: 100%;
+  padding: 20px 10px;
+  margin: auto;
+  text-align: center;
+}
+
+.buy_number {
+  padding: 10px;
+}
+
+.total_text {
+  font-size: 17px;
+}
+
+.ok_btn {
+  background-color: #2962FF;
+  border-radius: 0.5rem;
+  box-sizing: border-box;
+  /* color: #FFFFFF; */
+  color: #fff;
+  display: flex;
+  font-size: 16px;
+  justify-content: center;
+  padding: 0.75rem 1.75rem;
+  text-decoration: none;
+  width: 150px;
+  border: 0;
+  cursor: pointer;
+  user-select: none;
+
+}
+
+.num {
+  display: flex;
+  justify-content: start;
+  margin: 10px;
+}
+
+.buy_stock {
+  font-size: 20px;
+}
+
+.modal>.close {
+  cursor: pointer;
+  position: absolute;
+  display: block;
+  padding: 2px 5px;
+  line-height: 20px;
+  right: -10px;
+  top: -10px;
+  font-size: 24px;
+  background: #ffffff;
+  border-radius: 18px;
+  border: 1px solid #cfcece;
+}
+
+.content {
+  background-color: #ffffff;
+  color: black;
+  padding: 20px;
+  border-radius: 15px;
+
+}
+
+.left_side {
+  display: flex;
+  justify-content: start;
+  width: 50%;
+  align-items: center;
+}
+
+.img {
+  width: 70px;
+  object-fit: contain;
+}
+
+.right_side {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column-reverse;
+  align-items: flex-end;
+  width: 50%;
+
+}
+
+.change_data {
+  margin-left: 20px;
+}
+
+.symbol {
+  margin-left: 20px;
+  font-size: 30px;
+}
+
+.buy {
+  background-color: rgba(41, 98, 255, 1);
+  margin: 20px;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 30%;
+  border-radius: 10px;
+}
+
+.buy_text {
+  font-weight: 400;
+  color: white;
+  font-size: 20px;
+}
+
+/* .btn_buy{
+    background-color: bisque;
+    border-radius: 10px;
+    padding: 10px 30px 10px 30px;
+
+} */
+
+.button {
+  background-color: #fff;
+  border-radius: 0.5rem;
+  box-sizing: border-box;
+  /* color: #FFFFFF; */
+  color: #2962FF;
+  display: flex;
+  font-size: 16px;
+  justify-content: center;
+  padding: 0.75rem 1.75rem;
+  text-decoration: none;
+  width: 150px;
+  border: 0;
+  cursor: pointer;
+  user-select: none;
+
+}
+
+.overview_head {
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+}
+
+.info_box {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+  padding: 10px;
+}
+
+.left_box {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+
+}
+
+.right_side {
+  display: flex;
+  flex-direction: column;
+}
+
+.l_box_data {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  background-color: rgb(78, 78, 86);
+
+  padding: 10px;
+}
+
+._img_data {
+  display: flex;
+  align-items: center;
+}
+
+.name_p {
+  margin-left: 10px;
+
+}
+
+.p_data {
+  margin-right: 10px;
+}
+
+.newsec {
+  color: black;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.newleft {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  margin: 20px;
+}
+
+.newright {
+  margin: 20px;
+  width: 50%;
+}
+
+.info22 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 20px;
+  align-items: center;
+}
+
+.head29 {
+  font-weight: 600;
+  font-size: 35px;
+  padding: 5px;
+}
+
+.forbg {
+  background: #E7EBF4;
+  border-radius: 10px;
+}
+
+.text12 {
+  display: flex;
+  align-items: center;
+}
+
+#icon22 {
+  font-size: 36px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+
+
+@media (max-width: 768px) {
+
+  .newsec {
+    flex-direction: column;
+  }
+
+  .newleft,
+  .newright {
+    width: auto;
+    margin: 10px;
+  }
+
+}
