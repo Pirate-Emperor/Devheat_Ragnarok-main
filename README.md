@@ -14,7 +14,7 @@ Backend ML:-
 https://github.com/Pirate-Emperor/Stock_Predictor_ML
 ## Drive link
 ```
-https://drive.google.com/file/d/1l_th3UTX38AuRr1YfS4NKkkl8z_VXtdB/view?usp=share_link
+[https://drive.google.com/file/d/1l_th3UTX38AuRr1YfS4NKkkl8z_VXtdB/view?usp=share_link](https://drive.google.com/file/d/19XYy2Omm66EWFjocfTfTUz7X66Edkerd/view?usp=share_link)
 ```
 
 ### Photos
